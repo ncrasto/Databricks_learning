@@ -1,0 +1,45 @@
+Job Requisition ID #
+
+20WD44554
+This position could be based anywhere in US or Canada.
+
+Position Overview
+
+Autodesk is seeking a Lead Data Scientist to join the core data science team in our Data Platform and Insights group. The Data Platform and Insights group is chartered with building innovative data products and advanced analytics solutions for Autodesk’s strategy, marketing, sales, customer support teams and enable decision makers in leadership across the organization. This is a senior role will help us make machine intelligence and data science practices an integral part of how Autodesk makes and executes data-driven decisions.
+
+As a technical leader of in the data science team, you are responsible for applying appropriate machine learning, predictive modeling and optimization techniques to a variety of problems, including customer retention, customer acquisition, product recommenders, next-best action, product adoption, customer segmentation, and beyond. You are expected to provide technical and/or analytic leadership on major current analytic projects but also develop innovative data-driven solutions to new problem spaces.
+
+Responsibilities
+Be a technical and/or analytic leader in a group of talented data scientists
+Develop junior data scientists with guidance and mentorship and in accordance to Autodesk’s Culture Code
+Be hands on with the work that the team is conducting while promoting better practices
+Work closely with data science leadership in defining the strategic direction and roadmap for the team
+Plan, research and develop data products from ideation through development and deployment as well as communication of results and performance to leadership
+Provide technical leadership to support the ongoing development of our data science and machine learning services platform
+Collaborate with product management, engineering and business stakeholders to deliver analytics products that have a quantifiable impact on Autodesk’s business
+Work closely with senior managers in translating business questions to quantitative solutions and be responsible for delivery of impactful data products
+
+Minimum Qualifications
+PhD, MS or BA with demonstrable work expertise in the field of Statistics, Math, Electrical Engineering, Computer Science, Information Sciences or a quantitative-related field
+4+ years of experience in data science, machine learning or a related field
+Proven track record overseeing data science projects at all stages, from initial conception to implementation and optimization
+Deep understanding of machine learning, statistical modeling and data mining techniques including supervised and unsupervised learning, boosting, pattern matching, explainable models, and forecasting.
+Familiarity with deep learning methods and corresponding DL frameworks (pytorch, tensorflow)
+Experience with experimental design, A/B testing, and related evaluation methodologies
+Experience working with big data platforms (Hadoop, Spark, Hive) and orchestration frameworks (Airflow) and analytic environments (Databricks, Sagemaker)
+Experience working with relational SQL and NoSQL databases (Hive, Presto)
+Expertise with ML and statistical modeling tools such as R, Pandas, SciKitLearn, pyspark (in IDEs like PyCharm, RStudio, Jupyter, Databricks)
+Experience presenting to both technical and non-technical audiences as well as presenting up to leadership
+
+Preferred Qualifications
+Good programming skills using analytics-oriented languages such as Python, R and/orhttps://www.datacamp.com/community/tutorials/feature-selection-R-boruta Scala
+Software engineering workflow experience with respect to agile data science practices, git flow , data pipeline orchestration and monitoring, model performance evaluation, and explainable delivery of prediction models.
+Ability to partner with executives, product managers and stakeholders to translate business requirements into product roadmaps
+Excellent communication skills and ability to explain complex concepts to a non-technical audience
+A creative problem solver with passion, energy and enthusiasm to drive meaningful and transformational change
+Demonstrated delivery and on-going development of data science products
+Excellent communication skills, project management skills, and technical management skills.
+At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.
+Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). If you have any questions or require support, contact Autodesk Careers .
+
+With Autodesk software, you have the power to Make Anything. The future of making is here, bringing with it radical changes in the way things are designed, made, and used. It’s disrupting every industry: architecture, engineering, and construction; manufacturing; and media and entertainment. With the right knowledge and tools, this disruption is your opportunity. Our software is used by everyone - from design professionals, engineers and architects to digital artists, students and hobbyists. We constantly explore new ways to integrate all dimensions of diversity across our employees, customers, partners, and communities. Our ultimate goal is to expand opportunities for anyone to imagine, design, and make a better world.
